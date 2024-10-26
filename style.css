@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma,
+     Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: aqua;
+    background-color: palevioletred;
+    font-family: 'Segoe UI', Tahoma, 
+    Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: aquamarine;
+}
